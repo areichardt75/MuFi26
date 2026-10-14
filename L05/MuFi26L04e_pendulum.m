@@ -1,5 +1,5 @@
-%% Mufi 2025 - Lecture 8. - Solution of ODEs
-% Simple pendulum 
+%% Mufi 2026 - Lecture 5. - Solution of ODEs
+% Simple pendulum problem 
 
 % general form : Th'' = -g/ell*sin(Th)
 % linearized form : Th'' = -g/ell*Th
